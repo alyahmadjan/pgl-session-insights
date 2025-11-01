@@ -15,6 +15,13 @@ Setup:
 1. Create a .env file in the root directory with your OpenAI API key:
    OPENAI_API_KEY=your_api_key_here
 2. Ensure raw_observations.txt is in data/raw/ directory
+
+Usage:
+python scripts/clean_facilitator_notes.py
+
+Or programmatically:
+from scripts.clean_facilitator_notes import clean_child_observation_data_with_llm
+df_enhanced = clean_child_observation_data_with_llm()
 """
 
 import pandas as pd
