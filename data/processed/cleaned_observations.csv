@@ -1,0 +1,23 @@
+Child_ID,Session_Date,Observation_Text,Emotional_Regulation_Score,Social_Integration_Score,Resilience_Notes_Summary
+A001,2025-10-20,Child A was quiet during group work but smiled when helping peers.,3,3,Positive
+A1,2025-10-20,"Got frustrated after losing game; stamped foot, re-joined after 5 minutes.",2,4,Positive
+B12,2025-10-13,Spoke up confidently for the first time in 3 sessions volunteered to lead.,4,3,Positive
+B012,2025-10-13,Withdrew during art; refused to share colours; teacher sat with them briefly.,2,2,Negative
+C03,2025-06-10,Helped another child w/ instructions very cooperative; positive peer interaction.,4,4,Positive
+D004,,Seemed anxious (fidgeting). Calmed after breathing exercise; then joined game.,3,4,Positive
+E5,2025-10-06,"Initially quiet, later encouraged others showed persistence; re-joined after set back.",4,4,Positive
+F006,2025-10-27,No change today. stayed to self. maybe tired.,2,2,Negative
+UNKNOWN,2025-10-20,"Child G (ID missing) ran off during free play, returned after staff prompted; tearful.",2,2,Negative
+G007,2025-10-21,"During team game, shouted when lost; apologised later and hugged peer.",3,4,Positive
+H008,2025-10-22,"Cooperative
+ helped setup
+ refused snack at end (minor).",3,3,Positive
+I009,2025-10-23,Talked confidently; first time asked a question in front of group; big step!,4,3,Positive
+J10,2025-10-24,"Played alone at first, joined after invitation. High energy; distracted frequently.",2,3,Mixed
+K011,2025-10-24,"Cried when things didn't go their way; teacher used calm chat, settled down after 10mins.",3,3,Positive
+L12,2025-10-25,Repeatedly interrupted others; needed redirection; improved after reminder.,3,3,Positive
+M013,2025-10-25,"Showed leadership: led group song, encouraged shy peers; very positive.",4,4,Positive
+N014,2025-10-26,Argued with peer over turn-taking; resolved with adult help; then cooperative.,4,4,Positive
+O015,2025-10-27,"Made new friend; sat together during snack; smiles, played nicely.",3,4,Positive
+P016,2025-10-27,Refused to participate in competitive task said 'no' twice; later tried when prompted.,2,3,Positive
+Q017,2025-10-28,"Mixed behaviours: attentive during instruction, then distracted; practised deep breaths.",3,2,Mixed

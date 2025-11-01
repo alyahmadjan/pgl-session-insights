@@ -1,0 +1,162 @@
+[
+  {
+    "Child_ID": "A001",
+    "Session_Date": "2025-10-20",
+    "Observation_Text": "Child A was quiet during group work but smiled when helping peers.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "A1",
+    "Session_Date": "2025-10-20",
+    "Observation_Text": "Got frustrated after losing game; stamped foot, re-joined after 5 minutes.",
+    "Emotional_Regulation_Score": 2,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "B12",
+    "Session_Date": "2025-10-13",
+    "Observation_Text": "Spoke up confidently for the first time in 3 sessions volunteered to lead.",
+    "Emotional_Regulation_Score": 4,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "B012",
+    "Session_Date": "2025-10-13",
+    "Observation_Text": "Withdrew during art; refused to share colours; teacher sat with them briefly.",
+    "Emotional_Regulation_Score": 2,
+    "Social_Integration_Score": 2,
+    "Resilience_Notes_Summary": "Negative"
+  },
+  {
+    "Child_ID": "C03",
+    "Session_Date": "2025-06-10",
+    "Observation_Text": "Helped another child w/ instructions very cooperative; positive peer interaction.",
+    "Emotional_Regulation_Score": 4,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "D004",
+    "Session_Date": "",
+    "Observation_Text": "Seemed anxious (fidgeting). Calmed after breathing exercise; then joined game.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "E5",
+    "Session_Date": "2025-10-06",
+    "Observation_Text": "Initially quiet, later encouraged others showed persistence; re-joined after set back.",
+    "Emotional_Regulation_Score": 4,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "F006",
+    "Session_Date": "2025-10-27",
+    "Observation_Text": "No change today. stayed to self. maybe tired.",
+    "Emotional_Regulation_Score": 2,
+    "Social_Integration_Score": 2,
+    "Resilience_Notes_Summary": "Negative"
+  },
+  {
+    "Child_ID": "UNKNOWN",
+    "Session_Date": "2025-10-20",
+    "Observation_Text": "Child G (ID missing) ran off during free play, returned after staff prompted; tearful.",
+    "Emotional_Regulation_Score": 2,
+    "Social_Integration_Score": 2,
+    "Resilience_Notes_Summary": "Negative"
+  },
+  {
+    "Child_ID": "G007",
+    "Session_Date": "2025-10-21",
+    "Observation_Text": "During team game, shouted when lost; apologised later and hugged peer.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "H008",
+    "Session_Date": "2025-10-22",
+    "Observation_Text": "Cooperative\n helped setup\n refused snack at end (minor).",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "I009",
+    "Session_Date": "2025-10-23",
+    "Observation_Text": "Talked confidently; first time asked a question in front of group; big step!",
+    "Emotional_Regulation_Score": 4,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "J10",
+    "Session_Date": "2025-10-24",
+    "Observation_Text": "Played alone at first, joined after invitation. High energy; distracted frequently.",
+    "Emotional_Regulation_Score": 2,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Mixed"
+  },
+  {
+    "Child_ID": "K011",
+    "Session_Date": "2025-10-24",
+    "Observation_Text": "Cried when things didn't go their way; teacher used calm chat, settled down after 10mins.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "L12",
+    "Session_Date": "2025-10-25",
+    "Observation_Text": "Repeatedly interrupted others; needed redirection; improved after reminder.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "M013",
+    "Session_Date": "2025-10-25",
+    "Observation_Text": "Showed leadership: led group song, encouraged shy peers; very positive.",
+    "Emotional_Regulation_Score": 4,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "N014",
+    "Session_Date": "2025-10-26",
+    "Observation_Text": "Argued with peer over turn-taking; resolved with adult help; then cooperative.",
+    "Emotional_Regulation_Score": 4,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "O015",
+    "Session_Date": "2025-10-27",
+    "Observation_Text": "Made new friend; sat together during snack; smiles, played nicely.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 4,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "P016",
+    "Session_Date": "2025-10-27",
+    "Observation_Text": "Refused to participate in competitive task said 'no' twice; later tried when prompted.",
+    "Emotional_Regulation_Score": 2,
+    "Social_Integration_Score": 3,
+    "Resilience_Notes_Summary": "Positive"
+  },
+  {
+    "Child_ID": "Q017",
+    "Session_Date": "2025-10-28",
+    "Observation_Text": "Mixed behaviours: attentive during instruction, then distracted; practised deep breaths.",
+    "Emotional_Regulation_Score": 3,
+    "Social_Integration_Score": 2,
+    "Resilience_Notes_Summary": "Mixed"
+  }
+]
